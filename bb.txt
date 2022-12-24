@@ -14,3 +14,5 @@ update bb.txt in master
 修改些内容aaaa
 
 老子不让你修改
+
+那咱俩同时改，冲突一下
